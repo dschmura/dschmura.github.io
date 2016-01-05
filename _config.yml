@@ -15,6 +15,10 @@ avatar: https://avatars3.githubusercontent.com/u/325366?v=3&s=460
 #
 # Flags below are optional
 #
+collections:
+  dev_bootcamp:
+    output: true
+    permalink: /dev_bootcamp/:path/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
