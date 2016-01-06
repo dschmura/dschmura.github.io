@@ -1,6 +1,7 @@
 ---
 layout: page
 title: JavaScript...the good, the bad, the context.
+categories : [lessons, beginner]
 ---
 JavaScript has had a long and storied carrier. It was created (in 10 days mind) by Brendan Eich in May of 1995\. 1995 was a good year for programming languages giving us Java, JavaScript (not related), Lasso, PHP, and my favorite of the bunch Ruby. I am not sure what was in the water that year, but we all benefited from it.
 

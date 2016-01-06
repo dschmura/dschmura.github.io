@@ -1,6 +1,7 @@
 ---
 layout: page
 title: It's a class issue. 
+categories : [lessons, beginner]
 ---
 
 _'IDs are unique and beautiful snowflakes. Classes are not.' - Rob Glazebrook_

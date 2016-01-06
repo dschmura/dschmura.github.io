@@ -34,3 +34,8 @@ title: DevBootcamp (assigned posts)
 ### DBC Errata
 
 *   [DBC Week One](../dbc_week_1)
+
+{% for dbc_post in site.dev_bootcamp limit:50 %}
+  [{{dbc_post.title}}]({{dbc_post.url}})
+
+{% endfor %}
